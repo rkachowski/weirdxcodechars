@@ -13,6 +13,7 @@
 		144A310D1A25F3FF00C359B5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 144A310C1A25F3FF00C359B5 /* Images.xcassets */; };
 		144A31101A25F3FF00C359B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 144A310E1A25F3FF00C359B5 /* Main.storyboard */; };
 		144A311C1A25F3FF00C359B5 /* WeirdCharactersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 144A311B1A25F3FF00C359B5 /* WeirdCharactersTests.m */; };
+		144A31261A25F42900C359B5 /* 👯 ❤️.m in Sources */ = {isa = PBXBuildFile; fileRef = 144A31251A25F42900C359B5 /* 👯 ❤️.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,8 @@
 		144A31151A25F3FF00C359B5 /* WeirdCharactersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeirdCharactersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		144A311A1A25F3FF00C359B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		144A311B1A25F3FF00C359B5 /* WeirdCharactersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeirdCharactersTests.m; sourceTree = "<group>"; };
+		144A31251A25F42900C359B5 /* 👯 ❤️.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "👯 ❤️.m"; sourceTree = "<group>"; };
+		144A31271A25F47000C359B5 /* 👯 ❤️.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "👯 ❤️.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				144A310C1A25F3FF00C359B5 /* Images.xcassets */,
 				144A310E1A25F3FF00C359B5 /* Main.storyboard */,
 				144A31021A25F3FF00C359B5 /* Supporting Files */,
+				144A31251A25F42900C359B5 /* 👯 ❤️.m */,
+				144A31271A25F47000C359B5 /* 👯 ❤️.h */,
 			);
 			path = WeirdCharacters;
 			sourceTree = "<group>";
@@ -216,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				144A310B1A25F3FF00C359B5 /* ViewController.m in Sources */,
+				144A31261A25F42900C359B5 /* 👯 ❤️.m in Sources */,
 				144A31081A25F3FF00C359B5 /* main.m in Sources */,
 				144A31061A25F3FF00C359B5 /* AppDelegate.m in Sources */,
 			);
